@@ -49,6 +49,8 @@ cd CorePulse
 
 **Option 2:** Tuna will start automatically and give you a public URL like `https://xxxx.tunacloud.io`.
 
+**The first time you start, you may need to set up a Tuna account.**
+
 4. **Open in Browser:**
    Navigate to the URL provided by CorePulse. Stats update every second automatically.
 
