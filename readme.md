@@ -30,6 +30,7 @@ cd CorePulse
 2. **Download Tuna (if you want remote access):**
    Go to [Tuna Releases](https://tuna.am/docs/guides/desktop/) and download the latest `tuna-desktop_windows-amd64_portable.exe`. Place it in the same folder as CorePulse or an already installed file inside the archive .
 
+2. **Download GitHub Last Release**
 ---
 
 ## Usage
